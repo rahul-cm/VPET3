@@ -11,6 +11,7 @@ happyDog=loadImage("images/Happy.png");
 garden=loadImage("images/Garden.png");
 washroom=loadImage("images/WashRoom.png");
 bedroom=loadImage("images/BedRoom.png");
+milk=loadImage("images/milk.png");
 }
 
 function setup() {
